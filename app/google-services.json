@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "508073326737",
+    "project_id": "mounachpvttask1-10bde",
+    "storage_bucket": "mounachpvttask1-10bde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508073326737:android:09764c8159dbed8df66730",
+        "android_client_info": {
+          "package_name": "com.android1.mounachpvttask1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1IvjijayDHR7Pm8-asa8gaAFkfqWK160"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

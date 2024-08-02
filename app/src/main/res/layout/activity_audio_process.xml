@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+android:padding="16dp">
+
+<Button
+    android:id="@+id/btnSelectAudio1"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Select Audio 1" />
+
+<Button
+    android:id="@+id/btnSelectAudio2"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Select Audio 2" />
+
+<Button
+    android:id="@+id/btnMergeAudio"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Merge Audio" />
+
+<Button
+    android:id="@+id/btnPlayAudio"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Play Merged Audio" />
+
+</LinearLayout>
